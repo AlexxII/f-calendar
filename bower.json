@@ -1,0 +1,13 @@
+{
+  "name": "f-calendar",
+  "homepage": "https://github.com/AlexxII/f-calendar",
+  "authors": [
+    "AlexxII <murmus51@yandex.ru>"
+  ],
+  "description": "full-calendar v.4.20",
+  "main": "dist/core/main.js",
+  "keywords": [
+    "fullcalendar"
+  ],
+  "license": "MIT"
+}
